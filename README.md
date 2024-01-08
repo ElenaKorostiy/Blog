@@ -18,4 +18,4 @@ Currently, two official plugins are available:
 * REACT
 
 # DEMO 
- [demo](https://js-15-react-git-blog-modul-elenas-projects-6ec0e090.vercel.app?_vercel_share=lKjkgis9Lh1FJEQrmkWQfFHiNf0fkjmr)
+ [demo](https://react-alpha-five.vercel.app/)
