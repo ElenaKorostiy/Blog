@@ -2,7 +2,7 @@ import { forwardRef } from "react";
 
 export const InputField = forwardRef(({ label, name, onChange, onBlur}, ref) => (
   <label>
-    {label}:
+    {label}
         <input
         ref={ref}
         name={name}
