@@ -19,7 +19,7 @@ const onThumbsUp = (id) => () => {
 
 
    return (
-    <div className="post-container">
+     <div className="post-container">
        <div className="reaction-buttons">
         <button onClick={onLike(post.id)}>
           ❤️ {post.likes===0 ? '': post.likes}

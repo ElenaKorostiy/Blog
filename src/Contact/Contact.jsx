@@ -27,8 +27,7 @@ export const Contact = () => {
   });
 
   const onSubmit = (data) => {
-    console.log(data);
-    reset(); 
+     reset(); 
   };
 
   return (
